@@ -1,0 +1,32 @@
+{
+  "create": {
+    "name": "Lar dos Pequenos Sonhadores",
+    "description": "Oferece um ambiente seguro e acolhedor para crianças em situação de vulnerabilidade, com apoio educacional e atividades recreativas para promover o desenvolvimento social e emocional.",
+    "opening_hours": "das 8 horas às 18 horas",
+    "weekends": false
+  },
+  "a": {
+    "name": "Casa da Esperança",
+    "description": "Acolhe crianças e adolescentes em situação de risco, proporcionando moradia, alimentação e apoio psicológico, sempre com o objetivo de garantir um futuro digno e seguro.",
+    "opening_hours": "das 7 horas às 17 horas",
+    "weekends": true
+  },
+  "b": {
+    "name": "Recanto do Bem",
+    "description": "Orfanato que se destaca pelo ambiente familiar e afetuoso, com foco na reintegração social das crianças, garantindo apoio integral e atividades educacionais de qualidade.",
+    "opening_hours": "das 9 horas às 19 horas",
+    "weekends": false
+  },
+  "c": {
+    "name": "Abrigo da Alegria",
+    "description": "Instituição que oferece abrigo para crianças em situação de risco, com ênfase em atividades pedagógicas e recreativas para estimular o crescimento saudável e o aprendizado.",
+    "opening_hours": "das 10 horas às 16 horas",
+    "weekends": true
+  },
+  "d": {
+    "name": "Casa das Crianças Felizes",
+    "description": "Orfanato com foco no bem-estar e desenvolvimento emocional das crianças, oferecendo suporte psicológico, atividades recreativas e reforço escolar diário.",
+    "opening_hours": "das 8 horas às 17 horas",
+    "weekends": false
+  }
+}
